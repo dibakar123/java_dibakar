@@ -1,0 +1,9 @@
+DevOps 
+=======
+is a set of practices that automates the processes between software development and IT teams, in order that they can build, test, and release software faster and more reliably. 
+The concept of DevOps is founded on building a culture of collaboration between teams that historically functioned in relative siloes.
+
+DevOps is the offspring of agile software development – born from the need to keep up with the increased software velocity and throughput agile methods have achieved. Advancements in agile culture and methods over the last decade exposed the need for a more holistic approach to the end-to-end software delivery lifecycle. 
+
+Agile Development is an umbrella term for several iterative and incremental software development methodologies. 
+The most popular agile methodologies include Scrum, Kanban, Scaled Agile Framework® (SAFe®), Lean Development and Extreme Programming (XP).
